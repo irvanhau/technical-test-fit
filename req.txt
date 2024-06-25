@@ -1,0 +1,4 @@
+equirement :
+1.⁠ ⁠Gunakan validasi Regular Expression di setiap input
+2.⁠ ⁠⁠Konversi float menjadi jam (HH:MM:SS)
+3.⁠ ⁠⁠Koneksikan hasil input ke Database
